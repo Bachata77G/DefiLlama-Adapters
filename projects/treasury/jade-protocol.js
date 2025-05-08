@@ -48,7 +48,7 @@ arbitrum: {
   tokens: [
     nullAddress,
     ADDRESSES.arbitrum.USDC,
-    '0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017', //rdnt
+    '0xB2aD80F995030159EbD4c801B89e3a59964841aC', //rdnt
     ADDRESSES.arbitrum.GMX,
   ],
   owners: [treasuryARB, treasuryARB2]
